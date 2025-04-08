@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Math/Basic Math.iml" filepath="$PROJECT_DIR$/Basic Math/Basic Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Recursion/Basic Recursion.iml" filepath="$PROJECT_DIR$/Basic Recursion/Basic Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.iml" filepath="$PROJECT_DIR$/Bit Manipulation/Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/Searching/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
