@@ -5,7 +5,7 @@ public class PrintDivisors {
     public static void printDivisors(int n)
     {
         int i;
-        for(i = 1;i*i<=n;i++)
+        for(i = 1;i<=n;i++)
         {
            if(n%i == 0)
                System.out.print(i+" ");

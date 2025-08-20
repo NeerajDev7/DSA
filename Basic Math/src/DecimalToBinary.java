@@ -7,9 +7,9 @@ public class DecimalToBinary {
         StringBuilder str = new StringBuilder();
         while(n!=0)
         {
-            n>>=1;
             str.append(n%2);
+            n>>=1;
         }
-        return str;
+        return str.reverse();
     }
 }

@@ -1,5 +1,5 @@
 
-public class BinaryToDecimal {
+public class  BinaryToDecimal {
     public static void main(String[] args) {
         System.out.println(binToDec("10110101"));
     }

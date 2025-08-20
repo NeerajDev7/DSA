@@ -4,7 +4,7 @@ import java.util.List;
 class Main
 {
     public static void main(String[] args) {
-        int n = 3;
+        int n = 2;
         System.out.println(balPara(n));
     }
     public static List<String> balPara(int n)
